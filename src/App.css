@@ -14,6 +14,19 @@ FONTS
 font-family: 'Contrail One', cursive;
 font-family: 'Work Sans', sans-serif;
 */
+* {
+  background-color: purple;
+}
+
+p:hover {
+  color: green;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: red;
+}
+
 
 body {
   font-family: 'Work Sans', sans-serif;
